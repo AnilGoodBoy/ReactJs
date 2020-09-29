@@ -1,0 +1,39 @@
+{
+  "claims": [
+    {
+      "name": "Anil",
+      "claimnumber": "ABC12302",
+      "claimtype": "Submitted",
+      "claimprogram": "Life2424422",
+      "id": "123456"
+    },
+    {
+      "name": "Joseph",
+      "claimnumber": "XYZ412345",
+      "claimtype": "Submitted",
+      "claimprogram": "Insurance132",
+      "id": "123111"
+    },
+    {
+      "name": "Guru",
+      "claimnumber": "245CDE776",
+      "claimtype": "Submitted",
+      "claimprogram": "Program456",
+      "id": "123333"
+    },
+    {
+      "name": "Balu",
+      "claimnumber": "ABC123001",
+      "claimtype": "Submitted",
+      "claimprogram": "Program478",
+      "id": "123444"
+    },
+    {
+      "name": "Raj",
+      "claimnumber": "24ABC000",
+      "claimtype": "Submitted",
+      "claimprogram": "Program5",
+      "id": "123477"
+    }
+  ]
+}
