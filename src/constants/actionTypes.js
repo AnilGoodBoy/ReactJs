@@ -1,0 +1,2 @@
+export const RECEIVE_CLAIMS = 'RECEIVE_CLAIMS'
+export const SET_LOGGED_USER = 'SET_LOGGED_USER'
